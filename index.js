@@ -1,17 +1,17 @@
 
 function receivesAFunction(callback) {
     
-    callback(); /
+    callback(); 
   }
   
   function returnsANamedFunction() {
     return function namedFunction() {
-      
+     
     };
   }
   
   function returnsAnAnonymousFunction() {
     return function() {
-      
+     
     };
   }
